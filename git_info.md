@@ -23,7 +23,7 @@
 22. git pull &lt;origin> &lt;vetka> – обновить ветку с GitHub;
 23. git pull &lt;origin> –all – обновить все ветки с GitHub;
 24. git reset --hard HEAD - эта комманда уберет все незакоммиченые изменения и Вы "вернетесь" в состояние самого последнего коммита (HEAD).
-&lt; &amp; >
+
 
 
 ![Git logo]( git_logo.png)
