@@ -21,8 +21,10 @@
 20. git push -u &lt;origin> &lt;vetka> – отправляем ветку на GitHub (после выполнения этой команды можно обновлять проект на GitHub с помощью команды git push);
 21. git push &lt;origin> –all – отправка всех веток на GitHub;
 22. git pull &lt;origin> &lt;vetka> – обновить ветку с GitHub;
+<<<<<<< HEAD
 23. git pull &lt;origin> –all – обновить все ветки с GitHub;
 24. git reset --hard HEAD - эта комманда уберет все незакоммиченые изменения и Вы "вернетесь" в состояние самого последнего коммита (HEAD).
+
 
 
 
